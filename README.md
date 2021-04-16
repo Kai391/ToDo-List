@@ -17,4 +17,4 @@ The page will reload if you make edits.\
 
 Here, there is no backend coding is done by me, it is fully frontend.
 
-But in future, I will go it through Django ##Python Backend Framework.
+But in future, I will go it through Django <b>Python Backend Framework</b>.
