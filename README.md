@@ -6,7 +6,8 @@ This is a ToDo-List Application
 
 If you don't have <b>Node Js</b> so firstly install it into your system by [Link](https://nodejs.org/en/)<br>
 
-
+After Successfull installation of node.js, open windows <i>PowerShell</i> and write a commond or copy-paste it:<br>
+###`git clone https://github.com/Kai391/ToDo-List.git`
 ## Available Scripts
 
 In the project directory, you can run:
