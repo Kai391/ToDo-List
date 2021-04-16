@@ -4,9 +4,8 @@ This is a ToDo-List Application
 
 ## Development Environment
 
-If you don't have <b>Node Js</b> so firstly install it into your system.<br>
-Then Open Windows <i>PowerShell</i> and write a commond which is given below:
-## ` npx create-react-app <your react app name> `
+If you don't have <b>Node Js</b> so firstly install it into your system by [Link](https://nodejs.org/en/)<br>
+
 
 ## Available Scripts
 
